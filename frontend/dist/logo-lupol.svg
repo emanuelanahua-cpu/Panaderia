@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <g transform="translate(10, 10)">
+    <rect width="60" height="60" rx="14" fill="#14151b" stroke="#fad911" stroke-width="2"/>
+    <path d="M20 48L30 18L40 38L48 24L36 50L20 48Z" fill="#fad911"/>
+    <circle cx="30" cy="30" r="3" fill="#ffffff"/>
+  </g>
+  <text x="82" y="42" font-family="'Outfit', sans-serif" font-weight="900" font-size="28" fill="#ffffff" letter-spacing="1.5">
+    LUPOL<tspan fill="#fad911">MOTOS</tspan>
+  </text>
+  <text x="84" y="60" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="10" fill="#9ca3af" letter-spacing="3.5">
+    CONCESIONARIO OFICIAL BAJAJ
+  </text>
+</svg>
